@@ -79,4 +79,4 @@
  set showmatch
  set mat=5
 
-
+nnoremap <silent> <F8> :TlistToggle<CR>
