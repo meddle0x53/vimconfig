@@ -42,6 +42,7 @@
  Bundle 'git://git.wincent.com/command-t.git'
  Bundle 'vim-ruby/vim-ruby'
  Bundle 'ecomba/vim-ruby-refactoring'
+ Bundle 'flazz/vim-colorschemes'
  " ...
 
  filetype plugin indent on     " required!
